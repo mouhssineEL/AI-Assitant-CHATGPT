@@ -10,7 +10,7 @@ It's a Speech Recognition using gTTS and openIA API to make like Siri/Google Ass
  ``` bash
  pip install -r requirements.txt 
  ``` 
- * #OR# if you want the latest version of all packages 
+ * #OR# if you want latest version of all packages 
   ``` bash
  pip install -r requirements.txt --upgrade
   ```
