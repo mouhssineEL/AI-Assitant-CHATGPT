@@ -1,0 +1,10 @@
+pip
+pyaudio
+playsound
+gTTS
+SpeechRecognition
+openai
+#### on MacOS ####
+# pip install pipwin
+# pipwin install pyaudio
+# or using brew package seach for it
